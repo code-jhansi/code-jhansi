@@ -3,7 +3,6 @@
 🚀 2nd Year B.Tech CSE Student | 💻 Web Developer | ⚙️ DSA Enthusiast
 
 🎓 Pursuing B.Tech in [Computer and Communication Engineering](https://www.manipal.edu/mit/department-faculty/department-list/information-communication-technology) at Manipal Institute of Technology, Manipal<br/>
-🌱 Currently learning: React.js, Graph Algorithms & System Design Basics<br/> 
 📚 Practicing DSA on LeetCode, GFG & Codeforces<br/>
 💻 Building projects using HTML, CSS, JS, and the MERN stack.
 
