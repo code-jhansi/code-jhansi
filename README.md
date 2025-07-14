@@ -1,10 +1,17 @@
 ## Hi, I'm Jhansi!
 
-🚀 2nd Year B.Tech CSE Student | 💻 Web Developer | ⚙️ DSA Enthusiast
+A 2nd-year B.Tech CSE student at Manipal Institute of Technology, Manipal, specializing in Computer and Communication Engineering.
 
-🎓 Pursuing B.Tech in [Computer and Communication Engineering](https://www.manipal.edu/mit/department-faculty/department-list/information-communication-technology) at Manipal Institute of Technology, Manipal<br/>
-📚 Practicing DSA on LeetCode, GFG & Codeforces<br/>
-💻 Building projects using HTML, CSS, JS, and the MERN stack.
+💻 I'm a budding Web Developer and passionate DSA Enthusiast.
+
+🚀 Currently honing my skills in HTML, CSS, JS, and diving into the MERN stack.
+
+🧠 I regularly practice Data Structures and Algorithms on platforms like LeetCode, GFG, and Codeforces.
+
+💡 I'm always curious about how things work under the hood and love turning ideas into real-world tech solutions.
+
+Let’s build something great together! 💫
+
 
 
 
