@@ -1,6 +1,6 @@
 ## Hi, I'm Jhansi!
 
-A 2nd-year B.Tech CSE student at Manipal Institute of Technology, Manipal, specializing in Computer and Communication Engineering.
+A 2nd-year B.Tech CSE student at Manipal Institute of Technology, Manipal.
 
 💻 I'm a budding Web Developer and passionate DSA Enthusiast.
 
